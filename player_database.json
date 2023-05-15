@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Tom",
+      "race": "Dwarf",
+      "class": "Druid",
+      "level": 1,
+      "stats": {
+        "Strength": 17,
+        "Dexterity": 13,
+        "Constitution": 10,
+        "Intelligence": 13,
+        "Wisdom": 15,
+        "Charisma": 7
+      },
+      "exp": 0,
+      "equipment": {
+        "Stick": 1
+      },
+      "spells": {
+        "Vines": 1
+      },
+      "inventory": {
+        "Gold": 10
+      },
+      "max_hp": 28,
+      "hp": 18,
+      "ap": 5,
+      "armor_class": 1
+    },
+    {
+      "name": "Martin",
+      "race": "Orc",
+      "class": "Barbarian",
+      "level": 1,
+      "stats": {
+        "Strength": 12,
+        "Dexterity": 14,
+        "Constitution": 12,
+        "Intelligence": 15,
+        "Wisdom": 8,
+        "Charisma": 14
+      },
+      "exp": 0,
+      "equipment": {
+        "Club": 1
+      },
+      "spells": {},
+      "inventory": {},
+      "max_hp": 30,
+      "hp": 20,
+      "ap": 5,
+      "armor_class": 2
+    },
+    {
+      "name": "Walter",
+      "race": "Elf",
+      "class": "Rogue",
+      "level": 1,
+      "stats": {
+        "Strength": 7,
+        "Dexterity": 8,
+        "Constitution": 15,
+        "Intelligence": 13,
+        "Wisdom": 11,
+        "Charisma": 6
+      },
+      "exp": 0,
+      "equipment": {},
+      "spells": {},
+      "inventory": {},
+      "max_hp": 33,
+      "hp": 23,
+      "ap": 5,
+      "armor_class": -1
+    }
+  ]
+}

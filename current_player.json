@@ -1,0 +1,1 @@
+{"name": "Tom", "race": "Dwarf", "class": "Druid", "level": 1, "stats": {"Strength": 17, "Dexterity": 13, "Constitution": 10, "Intelligence": 13, "Wisdom": 15, "Charisma": 7}, "exp": 0, "equipment": {"Stick": 1}, "spells": {"Vines": 1}, "inventory": {"Gold": 10}, "max_hp": 28, "hp": 18, "ap": 5, "armor_class": 1}

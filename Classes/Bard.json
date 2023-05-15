@@ -1,0 +1,142 @@
+{
+    "name": "Bard",
+    "hit_die": 8,
+    "proficiency_choices": [
+      {
+        "choose": 3,
+        "type": "skill",
+        "from": [
+          "Acrobatics",
+          "Animal Handling",
+          "Arcana",
+          "Athletics",
+          "Deception",
+          "History",
+          "Insight",
+          "Intimidation",
+          "Investigation",
+          "Medicine",
+          "Nature",
+          "Perception",
+          "Performance",
+          "Persuasion",
+          "Religion",
+          "Sleight of Hand",
+          "Stealth",
+          "Survival"
+        ]
+      },
+      {
+        "choose": 3,
+        "type": "tool",
+        "from": [
+          "Bagpipes",
+          "Drum",
+          "Dulcimer",
+          "Flute",
+          "Lute",
+          "Lyre",
+          "Horn",
+          "Pan Flute",
+          "Shawm",
+          "Viol"
+        ]
+      }
+    ],
+    "proficiencies": [
+      "Light armor",
+      "Simple weapons",
+      "Hand crossbows",
+      "Longswords",
+      "Rapiers",
+      "Shortswords"
+    ],
+    "saving_throws": [
+      "Dexterity",
+      "Charisma"
+    ],
+    "starting_equipment": {
+      "armor": "Leather armor",
+      "weapons": [
+        "Rapier",
+        "Dagger"
+      ],
+      "tools": [
+        "Musical instrument of your choice"
+      ],
+      "packs": [
+        "Diplomat's pack",
+        "Entertainer's pack"
+      ],
+      "currency": {
+        "gp": 5
+      }
+    },
+    "spellcasting": {
+      "ability": "Charisma",
+      "spells_known": 4,
+      "spell_slots": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      }
+    },
+    "class_levels": {
+      "1": {
+        "proficiency_bonus": 2,
+        "feature_choices": [
+          "Bardic Inspiration",
+          "Spellcasting"
+        ],
+        "features": [
+          "Spellcasting",
+          "Bardic Inspiration (d6)"
+        ]
+      },
+      "2": {
+        "proficiency_bonus": 2,
+        "feature_choices": [
+          "Song of Rest"
+        ],
+        "features": [
+          "Jack of All Trades",
+          "Song of Rest (d6)"
+        ]
+      },
+      "3": {
+        "proficiency_bonus": 2,
+        "feature_choices": [
+          "Expertise",
+          "Bard College"
+        ],
+        "features": [
+          "Expertise",
+          "Bard College",
+          "Bardic Inspiration (d8)"
+        ]
+      },
+      "4": {
+        "proficiency_bonus": 2,
+        "ability_score_improvement": 1,
+        "features": [
+          "Ability Score Improvement"
+        ]
+      },
+      "5": {
+        "proficiency_bonus": 3,
+        "feature_choices": [
+          "Font of Inspiration"
+        ],
+        "features": [
+          "Bardic Inspiration (d10)",
+          "Font of Inspiration"
+        ]
+      },
+      "6
+  

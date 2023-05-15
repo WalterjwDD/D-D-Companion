@@ -1,0 +1,250 @@
+{
+                "Simple Melee Weapon Stats": {
+                    "Club": {
+                        "dice": 1,
+                        "sides": 4,
+                        "weight": 2,
+                        "cost": 0.1
+                    },
+                    "Dagger": {
+                        "dice": 1,
+                        "sides": 4,
+                        "weight": 1,
+                        "cost": 2
+                    },
+                    "Greatclub": {
+                        "dice": 1,
+                        "sides": 8,
+                        "weight": 10,
+                        "cost": 0.2
+                    },
+                    "Handaxe": {
+                        "dice": 1,
+                        "sides": 6,
+                        "weight": 3,
+                        "cost": 5
+                    },
+                    "Javelin": {
+                        "dice": 1,
+                        "sides": 6,
+                        "weight": 2,
+                        "cost": 0.5
+                    },
+                    "Light hammer": {
+                        "dice": 1,
+                        "sides": 4,
+                        "weight": 2,
+                        "cost": 2
+                    },
+                    "Mace": {
+                        "dice": 1,
+                        "sides": 6,
+                        "weight": 4,
+                        "cost": 5
+                    },
+                    "Quarterstaff": {
+                        "dice": 1,
+                        "sides": 6,
+                        "weight": 4,
+                        "cost": 0.2
+                    },
+                    "Sickle": {
+                        "dice": 1,
+                        "sides": 4,
+                        "weight": 1,
+                        "cost": 1
+                    },
+                    "Spear": {
+                        "dice": 1,
+                        "sides": 6,
+                        "weight": 3,
+                        "cost": 3
+                    }
+                },
+            "Simple Ranged Weapons Stats": {
+                "Light CrossBow": {
+                    "dice": 1,
+                    "sides": 8,
+                    "weight": 5,
+                    "cost": 25,
+                    "min r": 80,
+                    "max r": 320
+                },
+                "Dart": {
+                    "dice": 1,
+                    "sides": 4,
+                    "weight": 0.25,
+                    "cost": 5,
+                    "min r": 20,
+                    "max r ": 60
+                },
+                "Shortbow": {
+                    "dice": 1,
+                    "sides": 6,
+                    "weight": 25,
+                    "cost": 25,
+                    "min r": 80,
+                    "max r":320
+                },
+                "Sling": {
+                    "dice": 1,
+                    "sides": 4,
+                    "weight": 0,
+                    "cost": 0,
+                    "min r": 30,
+                    "max r":120
+                }
+            },
+            "Martial Melee Weapons Stats":{
+                "Battleaxe": {
+                    "dice": 1,
+                    "sides": 8,
+                    "weight": 4,
+                    "cost": 10
+                },
+                "Flail": {
+                    "dice": 1,
+                    "sides": 8,
+                    "weight": 2,
+                    "cost": 10
+                },
+                "Glaive": {
+                    "dice": 1,
+                    "sides": 10,
+                    "weight": 6,
+                    "cost": 20
+                },
+                "Greataxe": {
+                    "dice": 1,
+                    "sides": 12,
+                    "weight": 7,
+                    "cost": 30
+                },
+                "Greatsword": {
+                    "dice": 2,
+                    "sides": 6,
+                    "weight": 6,
+                    "cost": 50
+                },
+                "Halberd": {
+                    "dice": 1,
+                    "sides": 10,
+                    "weight": 6,
+                    "cost": 20
+                },
+                "Lance": {
+                    "dice": 1,
+                    "sides": 12,
+                    "weight": 6,
+                    "cost": 6
+                },
+                "Longsword": {
+                    "dice": 1,
+                    "sides": 8,
+                    "weight": 3,
+                    "cost": 15
+                },
+                "Maul": {
+                    "dice": 2,
+                    "sides": 6,
+                    "weight": 10,
+                    "cost": 10
+                },
+                "Morningstar": {
+                    "dice": 1,
+                    "sides": 8,
+                    "weight": 4,
+                    "cost": 15
+                },
+                "Pike": {
+                    "dice": 1,
+                    "sides": 10,
+                    "weight": 18,
+                    "cost": 18
+                },
+                "Rapier": {
+                    "dice": 1,
+                    "sides": 8,
+                    "weight": 2,
+                    "cost": 25
+                },
+                "Scimitar": {
+                    "dice": 1,
+                    "sides": 6,
+                    "weight": 3,
+                    "cost": 25
+                },
+                "Shortsword": {
+                    "dice": 1,
+                    "sides": 8,
+                    "weight": 2,
+                    "cost": 10
+                },
+                "Trident": {
+                    "dice": 1,
+                    "sides": 6,
+                    "weight": 4,
+                    "cost": 5
+                },
+                "War pick": {
+                    "dice": 1,
+                    "sides": 12,
+                    "weight": 2,
+                    "cost": 5
+                },
+                "Warhammer": {
+                    "dice": 1,
+                    "sides": 10,
+                    "weight": 2,
+                    "cost": 15
+                },
+                "Whip": {
+                    "dice": 1,
+                    "sides": 4,
+                    "weight": 3,
+                    "cost": 2
+                }
+        },
+        "Martial Ranged Weapons Stats": {
+            "Blowgun": {
+                "dice": 1,
+                "sides": 1,
+                "weight": 1,
+                "cost": 10,
+                "min r": 25,
+                "max r": 50
+            },
+            "Hand Crossbow": {
+                "dice": 1,
+                "sides": 6,
+                "weight": 3,
+                "cost": 75,
+                "min r": 30,
+                "max r ": 120
+            },
+            "Heavy Crossbow": {
+                "dice": 1,
+                "sides": 10,
+                "weight": 18,
+                "cost": 50,
+                "min r": 100,
+                "max r":400
+            },
+            "Longbow": {
+                "dice": 1,
+                "sides": 8,
+                "weight": 2,
+                "cost": 50,
+                "min r": 150,
+                "max r":600
+            },
+            "Net": {
+                "dice": 1,
+                "sides": 0,
+                "weight": 1,
+                "cost": 3,
+                "min r": 5,
+                "max r":0
+            }
+        }
+    }

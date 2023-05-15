@@ -1,0 +1,61 @@
+{
+    "Equipment": {
+        "Weapons": {
+            "Weapons List": {
+                "Simple Melee Weapons": {
+                    "table": [                        
+                        ["Club", "1d4", 2, 0.5],
+                        ["Dagger", "1d4", 2, 1],
+                        ["Greatclub", "1d8", 2, 0.25],
+                        ["Handaxe", "1d6", 5, 2],
+                        ["Javelin", "1d6", 2, 2],
+                        ["Light hammer", "1d4", 2, 2],
+                        ["Mace", "1d6", 5, 4],
+                        ["Quarterstaff", "1d6", 4, 4],
+                        ["Sickle", "1d4", 1, 2],
+                        ["Spear", "1d6", 3, 3]
+                    ]
+                },
+                "Simple Ranged Weapons": {
+                    "table": [                        
+                        ["Crossbow, light", "1d8", 25, 5, 80, 320],
+                        ["Dart", "1d4", 5, 0.25, 20, 60],
+                        ["Shortbow", "1d6", 25, 2, 80, 320],
+                        ["Sling", "1d4", 0, 0, 30, 120]
+                    ]
+                },
+                "Martial Melee Weapons": {
+                    "table": [                        
+                        ["Battleaxe", "1d8", 10, 4],
+                        ["Flail", "1d8", 10, 2],
+                        ["Glaive", "1d10", 20, 6],
+                        ["Greataxe", "1d12", 30, 7],
+                        ["Greatsword", "2d6", 50, 6],
+                        ["Halberd", "1d10", 20, 6],
+                        ["Lance", "1d12", 6, 6],
+                        ["Longsword", "1d8", 15, 3],
+                        ["Maul", "2d6", 10, 10],
+                        ["Morningstar", "1d8", 15, 4],
+                        ["Pike", "1d10", 18, 18],
+                        ["Rapier", "1d8", 25, 2],
+                        ["Scimitar", "1d6", 25, 3],
+                        ["Shortsword", "1d6", 10, 2],
+                        ["Trident", "1d6", 5, 4],
+                        ["War pick", "1d8", 5, 2],
+                        ["Warhammer", "1d8", 15, 2],
+                        ["Whip", "1d4", 2, 3]
+                    ]
+                },
+                "Martial Ranged Weapons": {
+                    "table": [ 
+                        ["Blowgun", "1", 10, 1, 25, 100],
+                        ["Crossbow hand, hand", "1d6", 75, 3, 30, 120],
+                        ["Crossbow heavy, heavy", "1d10", 50, 18, 100, 400],
+                        ["Longbow", "1d8", 50, 2, 150, 600],
+                        ["Net", "-", 1, 3, 5, "-"]
+                    ]
+                }
+            }
+        }
+    }
+}
